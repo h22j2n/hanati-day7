@@ -250,7 +250,7 @@
 
 - UML에서 클래스가 *Unit* 이렇게 기울어져 있으면 추상클래스로 만들어라
 
-  ![그림1](.\img\그림1.png)
+  ![그림1](https://github.com/h22j2n/hanati-day7/blob/master/img/%EA%B7%B8%EB%A6%BC1.png)
 
 ![그림2](.\img\그림2.png)
 
