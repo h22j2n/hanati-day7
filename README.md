@@ -252,7 +252,7 @@
 
   ![그림1](https://github.com/h22j2n/hanati-day7/blob/master/img/%EA%B7%B8%EB%A6%BC1.png)
 
-![그림2](.\img\그림2.png)
+![그림2](https://github.com/h22j2n/hanati-day7/blob/master/img/%EA%B7%B8%EB%A6%BC2.png)
 
 - Shape가 추상클래스 (실체가 없으니)
 
@@ -338,7 +338,7 @@
 
 - 서로 다른 클래스 간에 원활한 소통을 위한 표준 규약
 
-- ![그림3](.\img\그림3.png)
+- ![그림3](https://github.com/h22j2n/hanati-day7/blob/master/img/%EA%B7%B8%EB%A6%BC3.png)
 
 - 실현(realization) 관계 : -----▷
 
