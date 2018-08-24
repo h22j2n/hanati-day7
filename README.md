@@ -250,9 +250,9 @@
 
 - UML에서 클래스가 *Unit* 이렇게 기울어져 있으면 추상클래스로 만들어라
 
-  ![그림1](C:\Users\kosta\Desktop\까마귀\img\그림1.png)
+  ![그림1](.\img\그림1.png)
 
-![그림2](C:\Users\kosta\Desktop\까마귀\img\그림2.png)
+![그림2](.\img\그림2.png)
 
 - Shape가 추상클래스 (실체가 없으니)
 
@@ -338,7 +338,7 @@
 
 - 서로 다른 클래스 간에 원활한 소통을 위한 표준 규약
 
-- ![그림3](C:\Users\kosta\Desktop\까마귀\img\그림3.png)
+- ![그림3](.\img\그림3.png)
 
 - 실현(realization) 관계 : -----▷
 
